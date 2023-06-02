@@ -19,4 +19,6 @@ public class Objects extends PageComponent {
     @FindBy(id="facebook")
     WebElementFacade contenedor;
 
+    //comentario
+
 }
