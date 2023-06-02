@@ -9,6 +9,7 @@ public class Objects extends PageComponent {
     @FindBy(name="login")
     WebElementFacade btnIngresar;
 
+
     @FindBy(id="pass")
     WebElementFacade txtPass;
 
