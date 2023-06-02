@@ -12,7 +12,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 @ExtendWith(SerenityJUnit5Extension.class)
 class LoginExitoso {
-
+//Login exitoso
     @Managed(driver = "chrome", options = "headless")
     WebDriver driver;
 
